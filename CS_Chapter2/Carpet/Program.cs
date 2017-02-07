@@ -9,6 +9,10 @@ namespace Carpet
     {
         static void Main(string[] args)
         {
+            int length = 40;
+            int width = 80;
+            double price = 150;
+            Console.WriteLine((length * width) * price);
         }
     }
 }
