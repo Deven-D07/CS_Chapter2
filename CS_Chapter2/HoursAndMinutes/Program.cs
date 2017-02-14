@@ -9,6 +9,10 @@ namespace HoursAndMinutes
     {
         static void Main(string[] args)
         {
+            double minutes = 60;
+            double hours = 1;
+            
+            
         }
     }
 }

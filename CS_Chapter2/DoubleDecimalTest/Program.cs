@@ -9,6 +9,7 @@ namespace DoubleDecimalTest
     {
         static void Main(string[] args)
         {
+           
         }
     }
 }

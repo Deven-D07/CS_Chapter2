@@ -8,6 +8,8 @@ namespace Yards
     class Program
     {
         static void Main(string[] args)
+            int length;
+            int width;
         {
         }
     }
